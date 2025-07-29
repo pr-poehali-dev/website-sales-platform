@@ -53,8 +53,8 @@ const services = [
 
 const pricing = [
   {
-    name: "Стартовый",
-    price: "29 990",
+    name: "Начальный",
+    price: "5 000",
     period: "проект",
     description: "Идеально для небольших проектов",
     features: [
@@ -66,8 +66,8 @@ const pricing = [
     popular: false
   },
   {
-    name: "Профессиональный", 
-    price: "79 990",
+    name: "Профи", 
+    price: "10 000",
     period: "проект",
     description: "Для серьезного бизнеса",
     features: [
@@ -80,8 +80,8 @@ const pricing = [
     popular: true
   },
   {
-    name: "Премиум",
-    price: "149 990", 
+    name: "ВИП",
+    price: "13 000", 
     period: "проект",
     description: "Максимальный функционал",
     features: [
